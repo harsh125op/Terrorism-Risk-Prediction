@@ -62,5 +62,4 @@ This project is for educational purposes.
 
 ---
 
-Would you also like a nicely formatted **`requirements.txt`** file to go with this? 📦  
-(1 line and you can install all needed libraries!) 🚀
+
